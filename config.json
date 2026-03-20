@@ -1,7 +1,7 @@
 {
 	"host": "BubblezzMC.aternos.me",
-	"port": "28153",
-	"username": "Mr Origami",
+	"port": "25565",
+	"username": "Welcome",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
